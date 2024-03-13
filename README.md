@@ -1,8 +1,8 @@
-# Dashboard – Netflix e Prime Video
+# Visualização de Dados com Power BI
 
 ﻿Dashboard desenvolvido com base em dois datasets a fim de visualizar e analisar o comportamento das plataformas de streaming Netflix e Prime Video ao longo do tempo. Para esse projeto, foi necessário utilizar Python para fazer a união, a limpeza e o preparo inicial dos conjuntos de dados. Já no Power BI, ferramentas nativas foram utilizadas para complementar o tratamento das informações antes da construção da visualização.
  
-As bases de dados estão disponíveis no Kaggle ([Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv) e [Prime Video](https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv)) e o procedimento de limpeza realizado pelo Python estão disponíveis [aqui](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada/blob/main/dataset.ipynb).
+As bases de dados estão disponíveis no Kaggle ([Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv) e [Prime Video](https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv)) e o procedimento de limpeza realizado pelo Python está disponível [aqui](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada/blob/main/dataset.ipynb).
 
 O projeto visou cumprir os requisitos de **Visualização com Power BI**, do bootcamp de Ciência de Dados da **Ada Tech**, patrocinado pelo **Potência Tech**, do **iFood**. 
 
@@ -32,6 +32,13 @@ Top 5:
 Observar esses gêneros instigou uma busca pela relação entre os votos dos gêneros mais assistidos e os gêneros mais votados. Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
 
 ## **1. Qual é a distribuição de filmes e séries por tipo (filme ou série de TV) nas plataformas?**
+
+
++ Prime Video: 8416 Filmes e 1355 Séries
++ Porcentagem: 86% Filmes e 14% Séries
++ Netflix: 3725 Filmes e 2096 Séries
++ Porcentagem: 70% Filmes e 30% Séries
+
 
 ## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
 
