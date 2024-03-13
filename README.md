@@ -12,28 +12,54 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 * Rodrigo Udenal
 * Wallace Souza
 
+---
+
 # Análise Geral
 ![Gráfico 1](Graficos/1.png)
 
-## Perguntas Iniciais
+---
 
-Para começar a explorar o dataset, visualizamos os gêneros que tem maior quantidade de títulos em cada plataforma:
+# Perguntas Iniciais
+
+Para começar a explorar o dataset, optou-se por visualizar os gêneros que tem maior quantidade de títulos em cada plataforma:
 ![Gráfico 2](Graficos/2.png)![Gráfico 3](Graficos/3.png)
 
-Elegemos um top 5:
+Top 5:
 + Amazon: Drama, Thriller, Comédia, Sci-fi, Romance.
-+ Netflix: Drama, Thriller, Comédia, Ação, Crime. 
++ Netflix: Drama, Thriller, Comédia, Ação, Crime.
+  
+---
+
+# Tendências Gerais com base nos gráficos
+Observar esses gêneros instigou uma busca pela relação entre os votos dos gêneros mais assistidos e os gêneros mais votados. Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
+
+## **1. Qual é a distribuição de filmes e séries por tipo (filme ou série de TV) nas plataformas?**
+
+## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
+
+## **3. Quais são os gêneros mais populares em cada plataforma?**
+
+## **4. Qual é a distribuição geográfica das produções (países de origem) em cada plataforma?**
+
+## **5. Como a popularidade (avaliações do IMDb e pontuações do TMDb) varia entre os diferentes tipos de conteúdo (filmes versus séries de TV)?**
+
+## **6. Existe alguma correlação entre a popularidade do conteúdo (avaliações do IMDb, pontuações do TMDb e popularidade do TMDb) e o número de temporadas para séries de TV?**
+
+## **7. Existe alguma relação entre a popularidade do conteúdo e o número de votos no IMDb?**
+
+## **8. Quais são os títulos mais populares em cada plataforma, com base em uma combinação de pontuações, popularidade e número de votos?**
+
+## **9. Como a popularidade do conteúdo varia entre diferentes países?**
 
 
 
-## Tendências Gerais com base nos gráficos
+---
+
+# Conclusão (negócios)
 
 
-## Conclusão (negócios)
 
-
-
-## Observações:
+# Observações:
 + Os conjuntos de dados foram criados para listar todos os programas disponíveis nas plataformas, em junho de 2022, com informações disponíveis nos Estados Unidos.
 
 
