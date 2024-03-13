@@ -55,13 +55,15 @@ Observar esses gêneros instigou uma busca pela relação entre os votos dos gê
 
 ---
 
-# Conclusão (negócios)
+# Considerações Finais
 
 
+---
 
 # Observações:
 + Os conjuntos de dados foram criados para listar todos os programas disponíveis nas plataformas, em junho de 2022, com informações disponíveis nos Estados Unidos.
 
+---
 
 # Ferramentas utilizadas
 
