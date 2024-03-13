@@ -19,8 +19,10 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 
 Para começar a explorar o dataset, visualizamos os gêneros que tem maior quantidade de títulos em cada plataforma:
 ![Gráfico 2](Graficos/2.png)![Gráfico 3](Graficos/3.png)
-+ Amazon: Drama, Comédia, Thriller, Documentário.
-+ Netflix: Drama, Comédia, Documentário, Thriller. 
+
+Elegemos um top 5:
++ Amazon: Drama, Thriller, Comédia, Sci-fi, Romance.
++ Netflix: Drama, Thriller, Comédia, Ação, Crime. 
 
 
 
