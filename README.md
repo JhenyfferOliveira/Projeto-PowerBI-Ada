@@ -13,6 +13,8 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 * Wallace Souza
 
 # Análise Geral
+![Gráfico 1](graficos/1.png)
+
 
 ## Perguntas Iniciais
 
