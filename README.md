@@ -30,17 +30,10 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 
 ---
 
-Antes de tudo, optou-se por visualizar os gêneros que tem maior quantidade de títulos em cada plataforma:
-![Gráfico 7](Graficos/7.png)![Gráfico 8](Graficos/8.png)
-
-Top 5:
-+ Amazon: Drama, Thriller, Comédia, Sci-fi, Romance.
-+ Netflix: Drama, Thriller, Comédia, Ação, Crime.
-  
----
-
 # Perguntas Iniciais e Tendências Gerais
-Observar esses gêneros instigou uma busca pela relação entre os votos dos gêneros mais assistidos e os gêneros mais votados. Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
+
+
+Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
 
 ## **1. Qual é a distribuição de filmes e séries por tipo (filme ou série de TV) nas plataformas?**
 
@@ -53,11 +46,30 @@ Observar esses gêneros instigou uma busca pela relação entre os votos dos gê
 
 ## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
 
+
+Prime vídeo: Em 2016, expansão global 200+ países
+Netflix: Expansão Global 130+ países
+2019: ano em que se fechou a última blockbuster, última nos Estados Unidos.
+O pico de produções das plataformas de streaming coincide com as expansões de mercado globais e o fim da cultura de blockbuster.
+
+
+
 ## **3. Quais são os gêneros mais populares em cada plataforma?**
+![Gráfico 7](Graficos/7.png)![Gráfico 8](Graficos/8.png)
+
+Top 5:
++ Amazon: Drama, Thriller, Comédia, Sci-fi, Romance.
++ Netflix: Drama, Thriller, Comédia, Ação, Crime.
+
 
 ## **4. Qual é a distribuição geográfica das produções (países de origem) em cada plataforma?**
+![Gráfico](Graficos/PaisdeOrigem_Prime.png)![Gráfico ](Graficos/PaisdeOrigem_Netflix.png)
+
++ Produções majoritariamente feitas em dois países: US and IN.
 
 ## **5. Como a popularidade (avaliações do IMDb e pontuações do TMDb) varia entre os diferentes tipos de conteúdo (filmes versus séries de TV)?**
+
+
 
 ## **6. Existe alguma correlação entre a popularidade do conteúdo (avaliações do IMDb, pontuações do TMDb e popularidade do TMDb) e o número de temporadas para séries de TV?**
 
