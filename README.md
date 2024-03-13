@@ -15,12 +15,23 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 ---
 
 # Análise Geral
+### Amazon Prime e Netflix 
 ![Gráfico 1](Graficos/1.png)
+![Gráfico 2](Graficos/2.png)
+
+### Amazon Prime
+![Gráfico 3](Graficos/3.png)
+![Gráfico 5](Graficos/5.png)
+
+### Netflix
+![Gráfico 4](Graficos/4.png)
+![Gráfico 6](Graficos/6.png)
+
 
 ---
 
 Antes de tudo, optou-se por visualizar os gêneros que tem maior quantidade de títulos em cada plataforma:
-![Gráfico 2](Graficos/2.png)![Gráfico 3](Graficos/3.png)
+![Gráfico 7](Graficos/7.png)![Gráfico 8](Graficos/8.png)
 
 Top 5:
 + Amazon: Drama, Thriller, Comédia, Sci-fi, Romance.
