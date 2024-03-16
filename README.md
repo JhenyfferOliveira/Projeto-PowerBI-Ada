@@ -4,9 +4,9 @@
  
 As bases de dados estão disponíveis no Kaggle ([Netflix](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv) e [Prime Video](https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv)) e o procedimento de limpeza realizado com Python está disponível [aqui](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada/blob/main/dataset.ipynb).
 
-O projeto visou cumprir os requisitos de **Visualização com Power BI**, do bootcamp de Ciência de Dados da **Ada Tech**, patrocinado pelo **Potência Tech**, do **iFood**. 
+O projeto foi realizado em março de 2024 e visou cumprir os requisitos de **Visualização com Power BI**, do bootcamp de Ciência de Dados da **Ada Tech**, patrocinado pelo **Potência Tech**, do **iFood**. 
 
-O projeto foi realizado em março de 2024 e contou com a colaboração de 4 integrantes:
+Integrantes:
 * Carlos André
 * Jhenyffer Oliveira
 * Rodrigo Udenal
@@ -14,10 +14,11 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 
 ---
 
-# Análise Geral
+# Análise Geral – Dashboard
 ### Amazon Prime e Netflix 
 ![Gráfico 1](Graficos/1.png)
 ![Gráfico 2](Graficos/2.png)
+![Gráfico 2](Graficos/2.2.png)
 
 ### Amazon Prime
 ![Gráfico 3](Graficos/3.png)
@@ -111,11 +112,6 @@ Essa fórmula penaliza os títulos com mais votos, pois a divisão por um númer
 ![Gráfico ](Graficos/Popularidade_Votos_Amazon.png)
 
 ![Gráfico ](Graficos/Popularidade_Votos_Netflix.png)
-
-
----
-
-# Considerações Finais
 
 
 ---
