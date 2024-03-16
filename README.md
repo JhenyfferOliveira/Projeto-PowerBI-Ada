@@ -106,9 +106,11 @@ Essa fórmula penaliza os títulos com mais votos, pois a divisão por um númer
 
 ![Gráfico ](Graficos/Pontuacao_Netflix.png)
 
+
 ## **8. Existe alguma relação entre a popularidade do conteúdo e o número de votos no IMDb?**
+![Gráfico ](Graficos/Popularidade_Votos_Amazon.png)
 
-
+![Gráfico ](Graficos/Popularidade_Votos_Netflix.png)
 
 
 ---
