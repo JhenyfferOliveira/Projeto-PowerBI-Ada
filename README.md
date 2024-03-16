@@ -108,7 +108,6 @@ Essa fórmula penaliza os títulos com mais votos, pois a divisão por um númer
 
 ## **8. Existe alguma relação entre a popularidade do conteúdo e o número de votos no IMDb?**
 
-## **9. Como a popularidade do conteúdo varia entre diferentes países?**
 
 
 
