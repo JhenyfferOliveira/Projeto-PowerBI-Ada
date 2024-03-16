@@ -74,6 +74,9 @@ Top 5:
 
 ## **5. Como a popularidade (avaliações do IMDb e pontuações do TMDb) varia entre os diferentes tipos de conteúdo (filmes versus séries de TV)?**
 
+![Gráfico ](Graficos/Popularidade_Filmes.png)
+
+![Gráfico ](Graficos/Popularidade_Series.png)
 
 
 ## **6. Existe alguma correlação entre a popularidade do conteúdo (avaliações do IMDb, pontuações do TMDb e popularidade do TMDb) e o número de temporadas para séries de TV?**
