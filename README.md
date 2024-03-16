@@ -51,9 +51,9 @@ Assim, a análise de tendências gerais com base nos gráficos ficou evidente e 
 
 
 ## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
+![Gráfico 6](Graficos/Variacao_Distribuicao.png)
 
-
-Prime vídeo: Em 2016, expansão global 200+ países
+Prime Video: Em 2016, expansão global 200+ países
 Netflix: Expansão Global 130+ países
 2019: ano em que se fechou a última blockbuster, última nos Estados Unidos.
 O pico de produções das plataformas de streaming coincide com as expansões de mercado globais e o fim da cultura de blockbuster.
