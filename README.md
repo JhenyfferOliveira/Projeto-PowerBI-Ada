@@ -36,7 +36,13 @@ O projeto foi realizado em março de 2024 e contou com a colaboração de 4 inte
 Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
 
 ## **1. Qual é a distribuição de filmes e séries por tipo (filme ou série de TV) nas plataformas?**
+### Amazon Prime
+![Gráfico 3](Graficos/Distribuicao_AmazonPrime_Filmes.png)
+![Gráfico 5](Graficos/Distribuicao_AmazonPrime_Series.png)
 
+### Netflix
+![Gráfico 4](Graficos/Distribuicao_Netflix_Filmes.png)
+![Gráfico 6](Graficos/Distribuicao_Netflix_Series.png)
 
 + Prime Video: 8416 Filmes e 1355 Séries
 + Porcentagem: 86% Filmes e 14% Séries
