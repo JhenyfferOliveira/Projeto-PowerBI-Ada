@@ -86,11 +86,27 @@ Top 5:
 + Nota-se que a partir de 20 temporadas as séries, no geral, tendem a perder popularidade. Ou seja, seriados com poucas temporadas são melhor avaliados e costumam manter a popularidade. 
 
 
-## **7. Existe alguma relação entre a popularidade do conteúdo e o número de votos no IMDb?**
+## **7. Quais são os títulos mais populares em cada plataforma, com base em uma combinação de pontuações, popularidade e número de votos**
 
 
+#### **Cálculo da média ponderada pela técnica da ponderação dos votos:**
 
-## **8. Quais são os títulos mais populares em cada plataforma, com base em uma combinação de pontuações, popularidade e número de votos?**
+> Pontuação ponderada = (*imdb_score* * (1 - 1 / (1 + *imdb_votes*)) * 0.7) + (*tmdb_score* * 0.3)
+
+Essa fórmula penaliza os títulos com mais votos, pois a divisão por um número maior de votos resultará em uma fração menor, reduzindo o impacto da pontuação original. Isso pode ser útil para garantir que títulos com um grande número de votos tenham suas pontuações mais representativas, refletindo uma média mais precisa das avaliações dos usuários.
+
+*imdb_score* com ponderação dos votos: Tem um peso de 0.7. Isso sugere que a pontuação do IMDb é considerada relativamente mais importante do que as outras métricas na determinação da popularidade do título. A pontuação do IMDb geralmente é considerada uma métrica importante, pois reflete a avaliação geral do título pelos usuários.
+
+*imdb_votes*: Com peso 0.3, fornece uma medida relevante da popularidade, complementando o IMDb. Isso garante uma avaliação equilibrada, considerando opiniões de ambos os usuários do IMDb e TMDB.
+
+*tmdb_sc*: Tem um peso de 0.3. Isso sugere que a pontuação do TMDb é considerada a menos importante das duas métricas na determinação da popularidade do título. No entanto, ainda é incluída na fórmula porque pode fornecer uma perspectiva adicional sobre a popularidade do título.
+
+
+![Gráfico ](Graficos/Pontuacao_Amazon.png)
+
+![Gráfico ](Graficos/Pontuacao_Netflix.png)
+
+## **8. Existe alguma relação entre a popularidade do conteúdo e o número de votos no IMDb?**
 
 ## **9. Como a popularidade do conteúdo varia entre diferentes países?**
 
