@@ -14,11 +14,11 @@ Integrantes:
 
 ---
 
-# Análise Geral – Dashboard
-### Amazon Prime e Netflix 
-![Gráfico 1](Graficos/1.png)
-![Gráfico 2](Graficos/2.png)
-![Gráfico 2](Graficos/2.2.png)
+# Análise Geral
+### Dashboard Completo
+![Página 1](Graficos/1.png)
+![Página 2](Graficos/2.png)
+![Página 3](Graficos/2.2.png)
 
 ### Amazon Prime
 ![Gráfico 3](Graficos/3.png)
@@ -31,7 +31,7 @@ Integrantes:
 
 ---
 
-# Perguntas Iniciais e Tendências Gerais
+# Perguntas e Tendências Gerais
 
 
 Assim, a análise de tendências gerais com base nos gráficos ficou evidente e chegou-se a alguns questionamentos. Seguem abaixo
@@ -41,12 +41,13 @@ Assim, a análise de tendências gerais com base nos gráficos ficou evidente e 
 ![Gráfico 3](Graficos/Distribuicao_AmazonPrime_Filmes.png)
 ![Gráfico 5](Graficos/Distribuicao_AmazonPrime_Series.png)
 
++ Prime Video: 8416 Filmes e 1355 Séries
++ Porcentagem: 86% Filmes e 14% Séries
+
 ### Netflix
 ![Gráfico 4](Graficos/Distribuicao_Netflix_Filmes.png)
 ![Gráfico 6](Graficos/Distribuicao_Netflix_Series.png)
 
-+ Prime Video: 8416 Filmes e 1355 Séries
-+ Porcentagem: 86% Filmes e 14% Séries
 + Netflix: 3725 Filmes e 2096 Séries
 + Porcentagem: 70% Filmes e 30% Séries
 
@@ -80,11 +81,14 @@ Top 5:
 
 ![Gráfico ](Graficos/Popularidade_Series.png)
 
++ Amazon Prime: 1357 Avaliações Séries e 8514 Filmes
++ Netflix: 2106 Avaliações Séries e 3744 Filmes
+
 
 ## **6. Existe alguma correlação entre a popularidade do conteúdo (avaliações do IMDb, pontuações do TMDb e popularidade do TMDb) e o número de temporadas para séries de TV?**
 ![Gráfico ](Graficos/PopularidadeTemporadas.png)
 
-+ Nota-se que a partir de 20 temporadas as séries, no geral, tendem a perder popularidade. Ou seja, seriados com poucas temporadas são melhor avaliados e costumam manter a popularidade. 
++ Nota-se que a partir de 20 temporadas, no geral, as séries tendem a perder popularidade. Ou seja, seriados com poucas temporadas são melhor avaliados e costumam manter a popularidade e ter uma distribuição normal. 
 
 
 ## **7. Quais são os títulos mais populares em cada plataforma, com base em uma combinação de pontuações, popularidade e número de votos**
@@ -112,6 +116,8 @@ Essa fórmula penaliza os títulos com mais votos, pois a divisão por um númer
 ![Gráfico ](Graficos/Popularidade_Votos_Amazon.png)
 
 ![Gráfico ](Graficos/Popularidade_Votos_Netflix.png)
+
++ Os títulos mais votados são os que tendem a ter uma distribuição mais próxima de uma distribuição normal.
 
 
 ---
