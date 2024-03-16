@@ -53,11 +53,10 @@ Assim, a análise de tendências gerais com base nos gráficos ficou evidente e 
 ## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
 ![Gráfico 6](Graficos/Variacao_Distribuicao.png)
 
-Prime Video: Em 2016, expansão global 200+ países
-Netflix: Expansão Global 130+ países
-2019: ano em que se fechou a última blockbuster, última nos Estados Unidos.
-O pico de produções das plataformas de streaming coincide com as expansões de mercado globais e o fim da cultura de blockbuster.
-
++ Prime Video: Em 2016, expansão global 200+ países
++ Netflix: Expansão Global 130+ países
++ 2019: ano em que se fechou a última blockbuster nos Estados Unidos
++ O pico de produções das plataformas de streaming coincide com as expansões de mercado globais e o fim da cultura de blockbuster
 
 
 ## **3. Quais são os gêneros mais populares em cada plataforma?**
@@ -69,7 +68,7 @@ Top 5:
 
 
 ## **4. Qual é a distribuição geográfica das produções (países de origem) em cada plataforma?**
-![Gráfico](Graficos/PaisdeOrigem_Prime.png)![Gráfico ](Graficos/PaisdeOrigem_Netflix.png)
+![Gráfico](Graficos/DistribuicaoGeografica.png)
 
 + Produções majoritariamente feitas em dois países: US and IN.
 
