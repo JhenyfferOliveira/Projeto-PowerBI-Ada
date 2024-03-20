@@ -55,9 +55,9 @@ Assim, a análise de tendências gerais com base nos gráficos ficou evidente e 
 ## **2. Como a quantidade de conteúdo lançado tem variado ao longo dos anos?**
 ![Gráfico 6](Graficos/Variacao_Distribuicao.png)
 
-+ Prime Video: Em 2016, expansão global 200+ países
-+ Netflix: Expansão Global 130+ países
-+ 2019: ano em que se fechou a última blockbuster nos Estados Unidos
++ Prime Video: Em 2016, ocorreu a expansão global para 200+ países
++ Netflix: Em 2016, ocorreu a expansão global para 130+ países
++ Locadora: Em 2019, ocorreu o fechamento da penúltima Blockbuster nos Estados Unidos, marcando o declínio contínuo das locadoras físicas
 + O pico de produções das plataformas de streaming coincide com as expansões de mercado globais e o fim da cultura de blockbuster
 
 
